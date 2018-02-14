@@ -2305,6 +2305,15 @@ namespace Microsoft.VisualStudio.LanguageServices {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sync Class View.
+        /// </summary>
+        internal static string Sync_Class_View {
+            get {
+                return ResourceManager.GetString("Sync_Class_View", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Synchronize {0}.
         /// </summary>
         internal static string Synchronize_0 {

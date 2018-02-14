@@ -1498,6 +1498,11 @@ Aşağıdakilerin tümünü onaylıyorum:</target>
         <target state="translated">Burada yapılandırılan ayarlar yalnızca makineniz için geçerlidir. Bu ayarları çözümünüzle birlikte taşımak için .editorconfig dosyalarını kullanın.</target>
         <note />
       </trans-unit>
+      <trans-unit id="Sync_Class_View">
+        <source>Sync Class View</source>
+        <target state="new">Sync Class View</target>
+        <note />
+      </trans-unit>
     </body>
   </file>
 </xliff>
